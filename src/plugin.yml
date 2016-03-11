@@ -2,3 +2,6 @@ name: TheShadowHub
 main: me.bukkit.Incrility.TheShadowHub
 version: 1.0
 commands:
+    lobbycompass:
+        description: General LobbyCompass Command
+        aliases: [lc, lobbyc, lcompass, lcomp]
