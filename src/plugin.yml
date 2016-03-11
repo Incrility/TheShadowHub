@@ -1,0 +1,4 @@
+name: TheShadowHub
+main: me.bukkit.Incrility.TheShadowHub
+version: 1.0
+commands:
